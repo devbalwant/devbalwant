@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Balwant Singh Chouhan  
 
-<!--
-**devbalwant/devbalwant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech in Information Technology | Passionate about Web Development & Problem Solving  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Languages: C, C++, JavaScript  
+- Web: HTML, CSS, React, TailwindCSS  
+- Tools: Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/balwant-singh-chouhan-911500235/](#)  
+ - Email: balwantchouhan44217@gmail.com 
+
+---
+⭐️ From [YourUsername](https://github.com/devballwant)
+
